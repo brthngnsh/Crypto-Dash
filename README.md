@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Credits
 
-The credits of the repo goes to [renaissancetroll(https://github.com/renaissancetroll)
+The credits of the repo goes to [renaissancetroll](https://github.com/renaissancetroll)
